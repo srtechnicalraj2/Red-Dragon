@@ -53,7 +53,7 @@ Version 4.5 (Chat bot) 2022-06-15 latest
 </details>
 
 <!-- Contact Owner -->
-<b><details><summary>Contact Owner 😜</summary></b>
+<b><details><summary>Contact Owner 😜</summary>https://wa.me/68673046740</b>
 
 ## ```Connect With Me```
 <p align="center">
